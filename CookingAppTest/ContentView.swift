@@ -1,10 +1,3 @@
-//
-//  ContentView.swift
-//  CookingAppTest
-//
-//  Created by Molly Huang on 9/20/26.
-//
-
 import SwiftUI
 
 struct ContentView: View {
